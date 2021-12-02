@@ -1,7 +1,6 @@
 ### Hi there! 👋
 
-- 🌱 I’m currently learning Java Development
-
+- 🌱 
 - 📫 How to reach me: mykaelifernandes@hotmail.com
 
 ##
