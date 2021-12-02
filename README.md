@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- 🌱 
+- 🌱 Java Developer
 - 📫 How to reach me: mykaelifernandes@hotmail.com
 
 ##
