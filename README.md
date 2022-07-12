@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- 🌱 Java Developer
+- 🌱 Java Developer | Back end | Web
 - 📫 How to reach me: mykaelifernandes@hotmail.com
 
 ##
