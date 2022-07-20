@@ -2,6 +2,7 @@
 
 - 🌱 Java Developer | Back end | Web
 - 📫 How to reach me: mykaelifernandes@hotmail.com
+- 📚 Open for collaborations on Java projects
 
 ##
 
