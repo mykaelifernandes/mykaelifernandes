@@ -6,9 +6,11 @@
   
   <a href="https://www.linkedin.com/in/mykaeli-fernandes-9931a1214/" target="_blank">
   <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank">
+    &nbsp;&nbsp;
   </a>
   <a href="mailto:mykaelifernandes@hotmail.com" target="_blank">
   <img heigth="40" width="40" src="https://user-images.githubusercontent.com/88605247/236301653-9222d250-352d-454b-ae2a-b6806f256914.png">
+    &nbsp;&nbsp;
   </a>
   
   ## Stacks
