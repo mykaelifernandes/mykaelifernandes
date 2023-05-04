@@ -1,6 +1,4 @@
-## { system.out.println ("Hello Word!");
-
- ## Java Developer ♨️
+## { system.out.println ("Hello Word I'm a Java Developer!"); ♨️
 
  <div>
   
