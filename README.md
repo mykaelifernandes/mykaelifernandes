@@ -1,6 +1,5 @@
 ## { system.out.println ("Hello Word I'm a Java Developer!"); ♨️
 
-<a></a>
  <div>
    <a href="https://www.linkedin.com/in/mykaeli-fernandes-9931a1214/" target="_blank">
   <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank">
