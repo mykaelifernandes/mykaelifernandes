@@ -1,4 +1,4 @@
- # { system.out.println ("Hello Word I'm a Java Developer!"); ♨️
+ # { system.out.println ("Hello Word, I'm a Java Developer!"); ♨️
 
  <div>
    <a href="https://www.linkedin.com/in/mykaeli-fernandes-9931a1214/" target="_blank">
