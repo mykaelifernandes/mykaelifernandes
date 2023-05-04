@@ -2,7 +2,7 @@
 
 - 🌱 Java Developer 
 - 📫 How to reach me: mykaelifernandes@hotmail.com
-- 📚 Open for collaborations on Java projects
+
 
   
  <div>
